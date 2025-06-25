@@ -1,1 +1,1 @@
-# EJOR-computayional-experiment
+# EJOR-computational-experiment
